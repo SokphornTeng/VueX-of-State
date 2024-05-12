@@ -1,4 +1,4 @@
-# vue_x
+# vuex-ecommences
 
 ## Project setup
 ```
